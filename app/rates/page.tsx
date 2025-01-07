@@ -76,6 +76,7 @@ const useCryptoData = () => {
     try {
       const data = await getAssets();
       // Format the fetched data
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
       const formattedData = data.data.map((crypto: any) => ({
         ...crypto,
         prevPriceUsd: crypto.priceUsd,
