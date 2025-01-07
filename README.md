@@ -26,7 +26,7 @@ To run the project locally, ensure the following tools are installed on your sys
 1. **Clone the repository:**
 
    ```bash
-   ِDownload Zip File and Unzip
+   Clone this repository
    ```
 
 2. **Install dependencies:**
