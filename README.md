@@ -1,5 +1,4 @@
-# crypto-market
- 
+
 # Crypto Tracker Application
 
 ## Overview
